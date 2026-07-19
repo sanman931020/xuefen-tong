@@ -1,0 +1,928 @@
+114年學習與媒材設計學系課程與教學日碩班課程架構
+113.5.16 112學年度第2學期第4次系務暨課程委員會通過
+113.5.20 112學年度第2學期第2次院級課程委員會審議通過
+113.6.4 112學年度第2學期校級課程委員會審議通過
+114.4.18 112學年度第2學期第4次系務暨課程委員會通過
+114.5.5 113學年度第2學期第5次院級課程委員會審議通過
+114.5.27 113學年度第2學期校級課程發展委員會審議通過
+一、簡介與願景
+（一）碩士班簡介
+課程與教學是教育活動的主要內涵，也是近來教育改革關注的焦點。本校位於國際化的台北都會區，師生參與各項教育改革的機會眾多。故本碩士班創設時，不僅希望發揮國際化的特性，奠定學生課程與教學研究的學術涵養，更希望能協助學生瞭解都會教育的特性，增進學生在地化的實務改革能力，培養學生成為都會區的課程與教學領導者。同時，也期盼透過課程與教學專業課程的提供，加強對於學校之外文教事業的服務，提昇我國課程與教學人才的素質，以促教育改革。
+本碩士班成立於民國89年，以培養優質的課程設計與教學研究人才。自90年代以來，本碩士班致力於課程與教學之理論創發與實務發展，尤其著重本土化、都會化與國際化等特色，期以研究與教學，厚植學術根基與培育人才，以研習傳播專業新知，導引教育政策與課程發展，並擴展至文教事業，共創我國課程與教學之嶄新境界。
+（二）碩士班願景
+本系碩士班未來之發展願景為「人本關懷」、「都會領導」、「多元平衡」、「永續學習」四項，各項之內涵如下：
+人本關懷：教育的主體是人，因此，課程、教學及教育措施，都蘊含對教育主體―人的關懷；同時透過關懷的過程，了解學生的特質與潛能，啟迪其適性發展。
+都會領導：由於社會型態的轉變及工商經濟的發展，促使人口聚集都會區域，進而產生都會區域的人文生態的議題，這些都會區域議題有賴於教育理論與學者的導引，方能邁向更積極發展。本校位於首善之都―大臺北都會區中心，長期輔導台北市區內小學教育，從教育領導的實務經驗，增益研究生在都會學校的領導知能，也是本碩士班努力之目標。
+多元平衡：教育活動需以利社會、具正向成長意義為價值核心，方能導向本碩士班教育目標。雖然教育的過程中存有多元價值體系，也將導引出不同的課程和教學的型態，各型態之間也各具優點與限制。有視於教育對象的個別差異，欲提供學習者均等的教育機會，使其獲得適性的發展，教育體系、政策與活動需尊重多元價值觀，使多元價值體系並存，相互激勵，裨益成長。
+永續學習：追求永續發展是促使組織革新的重要力量；而持續學習乃激發永續發展的動力。因此，面對科技日新月異與快速變遷之社會，本碩士班將秉持永續學習精神，推動各項所務。
+上述四項願景已融入本碩士班課程設計、教學實務、研究發展，以及學術交流與推廣等業務之推動。
+二、教育目標
+（一）碩士班教育目標
+上述四大願景，一方面引領本碩士班課程設計、教學實施、研究發展、學術交流與推廣等業務之推動，另一方面本系亦據以輔導研究生的學習。根據上述四大願景，本碩士班的教育目標包含四項：
+培育課程與教學的傑出研究者，提升學術水準。
+陶養課程與教學的都會領導者，引領實務精進。
+致力課程與教學的新知推廣，促進教育進步。
+參與課程與教學的國際交流，共謀互惠發展。
+（二）碩士班教育目標與院、校教育目標之關聯圖
+精湛的鑑賞力
+精湛的鑑賞力
+扎實的專業力力
+扎實的專業力力
+全人的通識力
+全人的通識力
+卓越的社會力
+卓越的社會力
+全球的移動力
+全球的移動力
+校教育目標
+提供優質教育及社會服務
+提供優質教育及社會服務
+致力教育及跨領域學術研究
+致力教育及跨領域學術研究
+培育教育及跨領域專業人才
+培育教育及跨領域專業人才
+院教育目標
+參與課程與教學的國際交流
+參與課程與教學的國際交流
+培育課程與教學的傑出研究者
+培育課程與教學的傑出研究者
+陶養課程與教學的都會領導者
+陶養課程與教學的都會領導者
+致力課程與教學新知推廣
+致力課程與教學新知推廣
+系教育目標
+三、課程規劃
+（一）碩士班核心能力（註2）
+課程知能：能深至課程的理論與實務，包括課程的設計、決定、控制、實施、管理、評鑑、問題探究、歷史、趨勢、改革、新興課程、都會教育課程及潛在課程等；進而能提出批判論述，發展適用的課程理論與實務。
+教學知能：能精進教學的理論與實務，包括：教育心理學、認知科學、學習心理學、多元智能與教學，以及各種教學策略與模式；進而能結合班級經營與教學評量技術，配合各學科知識，發展與設計有效的教學模式。
+研究知能：能瞭解教育與心理的統計理論與質性研究方法論；熟諳量化資料處理方法與統計套裝軟體技術；能運用質性資料分析於資料詮釋中。能善於收集與分析國內外課程與教學之訊息，敏覺問題脈絡，建立合作平台與學術社群交流，掌握文化與環境的問題與需求，應用課程與教學之理論與技術，有效地推廣研究成果，提升教育水準。
+學習科技：能應用學習科技於課程與教學中。能了解與運用學習科技的理論與技術，如：數位學習、數位媒材製作、新媒體美學課程、資訊融入教學、網路教學設計、教學平台設計、網路學習社群、電腦多媒體、網站設計與經營等，以增進課程品質與教學效果。
+人文關懷：能於課程與教學活動中，實踐人文關懷的倫理情操；能在族群、階級、性別等本土或全球議題中，覺察、理解、探究與實踐普世價值，如：民主、自由、平等、博愛、正義等。
+（二）碩士班核心能力與教育目標關聯表
+核心能力
+碩士班教育目標
+1.培育課程與教學的傑出研究者，提升學術水準
+2.陶養課程與教學的都會領導者，引領實務精進
+3.致力課程與教學的新知推廣，促進教育進步
+4.參與課程與教學的國際交流，共謀互惠發展
+1.能探究課程的理論與實務
+2.能精進教學的理論與實務
+3.能熟悉研究的知識與技術
+4.能應用學習科技於課程與教學
+5.能實踐人文關懷的倫理情操
+（三）研究重點
+課程與教學之研究：針對K-12學校教育與文教事業的課程與教學之議題，進行科際整合的、跨國比較的探究，以發展、革新、設計、評鑑學校與文教事業的課程與教學。
+教材教法之研究：探究K-12課程之語文、數學、社會、自然、生活科技、健康與體育、藝術與人文、綜合活動等各領域之教材教法與實務議題，並探究教學媒體製作、電腦輔助教學設計、網路教學、數位學習等方面的理論與實務。
+新興課程與教學議題之研究：配合當前教育潮流與社會變遷趨勢，針對新興課程與教學領域，如兩性教育、生命教育、環境教育、休閒教育、人權教育、終身教育等專題，進行科際整合、跨國比較等系統研究，以提升K-12的課程與教學的專業品質。
+（四）課程架構
+本系碩士班之課程架構如圖一、圖二及圖三所示
+課程架構之概念構圖
+課程與教學
+課程與教學
+教學領域
+教學領域
+核心能力
+核心能力
+課程領域
+課程領域
+研究方法論
+研究方法論
+學習媒材與數位科技
+學習媒材與數位科技
+圖一：課程與教學碩士班課程架構概念圖
+課程架構圖一
+課程與教學碩士班 (日碩班)
+課程與教學碩士班 (日碩班)
+必修(16學分)
+必修(16學分)
+選修(18學分)
+選修(18學分)
+核心課程 (   學分)
+核心課程 (   學分)
+學位論文 (   學分)
+學位論文 (   學分)
+6
+6
+共同選修
+(至少6學分)
+共同選修
+(至少6學分)
+專精選修
+(至少6學分)
+專精選修
+(至少6學分)
+課程與教學
+課程與教學
+學習媒材與數位科技
+學習媒材與數位科技
+10
+10
+研究方法論
+研究方法論
+基礎理論
+(至少   學分)
+基礎理論
+(至少   學分)
+4
+4
+教學領域
+教學領域
+課程領域
+(至少   學分)
+課程領域
+(至少   學分)
+教學領域
+(至少   學分)
+教學領域
+(至少   學分)
+2
+2
+2
+2
+課程架構圖二
+課程與教學碩士班 (日碩班)
+課程與教學碩士班 (日碩班)
+必修
+必修
+學習媒材與數位科技
+學習媒材與數位科技
+課程與教學
+課程與教學
+專精選修
+專精選修
+選修
+選修
+◆ 都會區課程與教學議題研究
+◆ 教育研究法：課程與教學取向
+◆ 教育統計學
+◆ 課程與教學質性研究(Ι)
+◆ 當代課程與教學議題研討
+◆ 都會區課程與教學議題研究
+◆ 教育研究法：課程與教學取向
+◆ 教育統計學
+◆ 課程與教學質性研究(Ι)
+◆ 當代課程與教學議題研討
+核心課程
+核心課程
+學位論文
+學位論文
+◆ 碩士論文
+◆ 獨立研究
+◆ 碩士論文
+◆ 獨立研究
+共同選修
+共同選修
+教學領域：
+◆ 教學理論與學習設計研究
+◆ 教學社會學研究
+◆ 認知科學與教學研究
+教學領域：
+◆ 教學理論與學習設計研究
+◆ 教學社會學研究
+◆ 認知科學與教學研究
+研究方法論
+研究方法論
+基礎理論
+基礎理論
+課程領域：
+◆ 課程設計與發展研究：理論與實作
+◆ 課程社會學研究
+◆ 課程評鑑與領導研究
+課程領域：
+◆ 課程設計與發展研究：理論與實作
+◆ 課程社會學研究
+◆ 課程評鑑與領導研究
+◆ 數位學習研究
+◆ 數位教學媒材製作研究
+◆ 教科書研究
+◆ 繪本分析與教學應用
+◆ 新媒體美學課程研究
+◆ 數位學習研究
+◆ 數位教學媒材製作研究
+◆ 教科書研究
+◆ 繪本分析與教學應用
+◆ 新媒體美學課程研究
+◆ 教學策略創新與設計研究
+◆ 情意與道德課程研究
+◆ 素養導向領域課程與教學研究
+◆ 實驗教育與另類學校研究
+◆ 教學策略創新與設計研究
+◆ 情意與道德課程研究
+◆ 素養導向領域課程與教學研究
+◆ 實驗教育與另類學校研究
+◆ 課程與教學實驗設計與研究
+◆ 電腦資料分析
+◆ 課程與教學質性研究(Π)
+◆ 課程與教學實驗設計與研究
+◆ 電腦資料分析
+◆ 課程與教學質性研究(Π)
+◆ 新媒體美學課程研究
+◆ 數位學習研究
+◆ 網路教學平台設計
+◆ 數位教學媒材製作研究
+◆ 教科書研究
+◆ 繪本分析與教學應用
+◆ 新媒體美學課程研究
+◆ 數位學習研究
+◆ 網路教學平台設計
+◆ 數位教學媒材製作研究
+◆ 教科書研究
+◆ 繪本分析與教學應用
+◆ 教學策略創新與設計研究
+◆ 情意與道德課程研究
+◆ 美育課程研究
+◆ 素養導向領域課程與教學研究
+◆ 潛在課程
+◆ 教學策略創新與設計研究
+◆ 情意與道德課程研究
+◆ 美育課程研究
+◆ 素養導向領域課程與教學研究
+◆ 潛在課程
+◆ 課程與教學實驗設計與研究
+◆ 電腦資料分析
+◆ 課程與教學質性研究(Π)
+◆ 課程與教學實驗設計與研究
+◆ 電腦資料分析
+◆ 課程與教學質性研究(Π)
+◆ 資訊科技融入教學研究
+◆ 國語文教學與人工智慧運用
+◆ 人工智慧的應用與教育
+◆ 人工智慧與美感跨域課程研究
+◆ 資訊科技融入教學研究
+◆ 國語文教學與人工智慧運用
+◆ 人工智慧的應用與教育
+◆ 人工智慧與美感跨域課程研究
+◆ 美感教育課程與教學研究
+◆ 學習環境規劃
+◆ 多元文化教育研究
+◆ 藝術教育課程研究
+◆ 數學領域課程與教學研究
+◆ 美感教育課程與教學研究
+◆ 學習環境規劃
+◆ 多元文化教育研究
+◆ 藝術教育課程研究
+◆ 數學領域課程與教學研究
+◆ 資訊科技融入教學研究
+◆ 數位媒體之實務與應用
+◆ 人工智慧的應用與教育
+◆ 網路教學設計與研究
+◆ 學習媒材產業實習
+◆ 資訊科技融入教學研究
+◆ 數位媒體之實務與應用
+◆ 人工智慧的應用與教育
+◆ 網路教學設計與研究
+◆ 學習媒材產業實習
+◆ 學習環境規劃
+◆ 多元文化教育研究
+◆ 藝術教育課程研究
+◆ 數學領域課程與教學研究
+◆ 實驗教育與另類學校研究
+◆ 學習環境規劃
+◆ 多元文化教育研究
+◆ 藝術教育課程研究
+◆ 數學領域課程與教學研究
+◆ 實驗教育與另類學校研究
+日碩班學分規劃表
+課程類別
+學分數
+合計
+必修
+核心課程
+10
+28
+選修
+共同選修
+18
+專精選修
+碩士學位論文
+6
+畢業總學分數
+34
+4.課程模組圖
+臺北市立大學課程與教學日碩班課程模組
+必修
+1R (2)
+當代課程與教學議題研討
+核心課程
+學位論文
+1R (2)
+都會區課程與教學議題研究
+1R (2)
+教育研究法：課程與教學取向
+1R (2)
+教育統計學
+1R (2)
+課程與教學質性研究(Ⅰ)（Ⅰ）
+2R (2)
+獨立研究
+2R (4)
+碩士論文
+臺北市立大學課程與教學日碩班課程模組
+必修
+1R (2)
+當代課程與教學議題研討
+核心課程
+學位論文
+1R (2)
+都會區課程與教學議題研究
+1R (2)
+教育研究法：課程與教學取向
+1R (2)
+教育統計學
+1R (2)
+課程與教學質性研究(Ⅰ)（Ⅰ）
+2R (2)
+獨立研究
+2R (4)
+碩士論文
+選修
+選修
+學術發展
+實務應用
+E (2)
+課程與教學實驗設計與研究
+E (2)
+課程設計與發展研究：理論與實作
+E (2)
+電腦資料分析
+E (2)
+多元文化教育研究
+E (2)
+教學策略創新與設計研究
+E (2)
+繪本分析與教學應用
+E (2)
+教學理論與學習設計研究
+E (2)
+認知科學與教學研究
+E (2)
+藝術教育課程研究
+E (2)
+課程評鑑與領導研究
+E (2)
+數位學習研究
+E (2)
+學習環境規劃
+E (2)
+課程社會學研究
+E (2)
+教學社會學研究
+E (2)
+情意與道德課程研究
+E (2)
+教科書研究
+E (2)
+資訊科技融入教學研究
+E (2)
+素養導向領域課程與教學研究
+E (2)
+實驗教育與另類學校研究
+E (2)
+課程與教學質性研究(II)
+E (2)
+數學領域課程與教學研究
+E (2)
+新媒體美學課程研究
+E (2)
+人工智慧的應用與教育
+E (2)
+數位教學媒材製作研究
+E (2)
+國語文教學與人工智慧運用
+E (2)
+美感教育課程與教學研究
+E (2)
+人工智慧與美感跨域課程
+美感教育之課程與教學研究
+學術發展
+實務應用
+E (2)
+課程與教學實驗設計與研究
+E (2)
+課程設計與發展研究：理論與實作
+E (2)
+電腦資料分析
+E (2)
+多元文化教育研究
+E (2)
+教學策略創新與設計研究
+E (2)
+繪本分析與教學應用
+E (2)
+教學理論與學習設計研究
+E (2)
+認知科學與教學研究
+E (2)
+藝術教育課程研究
+E (2)
+課程評鑑與領導研究
+E (2)
+數位學習研究
+E (2)
+學習環境規劃
+E (2)
+課程社會學研究
+E (2)
+教學社會學研究
+E (2)
+情意與道德課程研究
+E (2)
+教科書研究
+E (2)
+資訊科技融入教學研究
+E (2)
+素養導向領域課程與教學研究
+E (2)
+實驗教育與另類學校研究
+E (2)
+課程與教學質性研究(II)
+E (2)
+數學領域課程與教學研究
+E (2)
+新媒體美學課程研究
+E (2)
+人工智慧的應用與教育
+E (2)
+數位教學媒材製作研究
+E (2)
+國語文教學與人工智慧運用
+E (2)
+美感教育課程與教學研究
+E (2)
+人工智慧與美感跨域課程
+美感教育之課程與教學研究
+畢 業
+畢 業
+5.課程地圖
+5.課程地圖
+必修 : 16學分 合理選修開課數上限 : 54學分 (實際54學分)
+選修 : 18學分
+必修 : 16學分 合理選修開課數上限 : 54學分 (實際54學分)
+選修 : 18學分
+114年學習與媒材設計學系課程與教學日碩班課程地圖
+114年學習與媒材設計學系課程與教學日碩班課程地圖
+職涯發展
+職涯發展
+核心能力
+核心能力
+學位論文
+學位論文
+課程與教學質性研究(Ⅰ)
+課程與教學質性研究(Ⅰ)
+教育統計學
+教育統計學
+教育研究法:課程與教學取向
+教育研究法:課程與教學取向
+都會區課程與教學議題研究
+都會區課程與教學議題研究
+當代課程與教學議題研討
+當代課程與教學議題研討
+核心必修
+核心必修
+繪本分析與教學應用
+繪本分析與教學應用
+國語文教學與人工智慧運用
+國語文教學與人工智慧運用
+人工智慧與美感跨域
+課程研究(新增)
+人工智慧與美感跨域
+課程研究(新增)
+教科書研究
+教科書研究
+資訊科技融入
+教學研究
+資訊科技融入
+教學研究
+數位學習研究
+數位學習研究
+實驗教育與
+另類學校研究
+實驗教育與
+另類學校研究
+多元文化教育研究
+多元文化教育研究
+人工智慧的應用
+與教育
+人工智慧的應用
+與教育
+數位教學媒材製作研究
+數位教學媒材製作研究
+新媒體美學課程研究
+新媒體美學課程研究
+美感教育課程與
+教學研究(新增)
+美感教育課程與
+教學研究(新增)
+情意與道德課程研究
+情意與道德課程研究
+藝術教育課程研究
+藝術教育課程研究
+數學領域課程與
+教學研究
+數學領域課程與
+教學研究
+學習環境規劃
+學習環境規劃
+素養導向領域課程與教學研究
+素養導向領域課程與教學研究
+教學策略創新與
+設計研究
+教學策略創新與
+設計研究
+教學理論與學習設計研究
+教學理論與學習設計研究
+認知科學與教學研究
+認知科學與教學研究
+課程社會學研究
+課程社會學研究
+教學社會學研究
+教學社會學研究
+課程評鑑與領導研究
+課程評鑑與領導研究
+課程與教學質性研究(II)
+課程與教學質性研究(II)
+電腦資料分析
+電腦資料分析
+課程設計與發展研究：理論與實作
+課程設計與發展研究：理論與實作
+課程與教學實驗設計與研究
+課程與教學實驗設計與研究
+學習媒材與
+數位科技
+學習媒材與
+數位科技
+課程與教學
+課程與教學
+基礎理論模組
+基礎理論模組
+研究方法論
+研究方法論
+碩士論文
+碩士論文
+獨立研究
+獨立研究
+教學設計師
+教學設計師
+教材/教學科技之編輯研發推廣人員
+教材/教學科技之編輯研發推廣人員
+文教機構課程/
+行政人員
+文教機構課程/
+行政人員
+K－12學校教師
+K－12學校教師
+教育出版企劃人員
+教育出版企劃人員
+培養學生成為都會區教育優秀的課程與教學領導者
+培養學生成為都會區教育優秀的課程與教學領導者
+倫理情操
+倫理情操
+探究能力
+探究能力
+實作能力
+實作能力
+設計能力
+設計能力
+教育知能
+教育知能
+2025 Curriculum Map – Master class of Learning & Materials Design
+2025 Curriculum Map – Master class of Learning & Materials Design
+Career
+Development
+development
+Career
+Development
+development
+Compulsory courses: 16 credits Maximum number of elective courses: 54 credits (actual 58credits)Electives: 18 credits
+Compulsory courses: 16 credits Maximum number of elective courses: 54 credits (actual 58credits)Electives: 18 credits
+Core Competencies
+Core Competencies
+Educational publishing planner
+Educational publishing planner
+K-12 Teachers
+K-12 Teachers
+Editor, R&D and promotion staff of teaching materials/teaching technology
+Editor, R&D and promotion staff of teaching materials/teaching technology
+Instructional Designer
+Instructional Designer
+Core Requirement
+Core Requirement
+Courses in cultural and educational institutions/
+administrative staff
+Courses in cultural and educational institutions/
+administrative staff
+Educational Knowledge
+Design Competence
+Production Competence
+Ethical Literacy and Cultural Sensitivity
+Research Competence
+Educational Knowledge
+Design Competence
+Production Competence
+Ethical Literacy and Cultural Sensitivity
+Research Competence
+Cross-domain Curriculum Reaserch on Artificial Intelligence(AI) and Aesthetics (new)
+Cross-domain Curriculum Reaserch on Artificial Intelligence(AI) and Aesthetics (new)
+Study on Curriculum & Instruction for Aesthetic Education (new)
+Study on Curriculum & Instruction for Aesthetic Education (new)
+Picture Book Analysis and Teaching Application
+Picture Book Analysis and Teaching Application
+Study on Textbook
+Study on Textbook
+Mandarin Instruction and Artificial Intelligence Application
+Mandarin Instruction and Artificial Intelligence Application
+Study on Curriculum for Affection and Morality
+Study on Curriculum for Affection and Morality
+Study on Curriculum for Art Education
+Study on Curriculum for Art Education
+Study on Theories of Teaching and Instructional Design
+Study on Theories of Teaching and Instructional Design
+Study on Cognitive Science and Instruction
+Study on Cognitive Science and Instruction
+Study on Mathematics domain curriculum and Instruction
+Study on Mathematics domain curriculum and Instruction
+Design of Learning Environments
+Design of Learning Environments
+Study on Sociology of Curriculum and Instruction
+Study on Sociology of Curriculum and Instruction
+Artificial Intelligence applications and education
+Artificial Intelligence applications and education
+Research on Instruction Using Computer
+Research on Instruction Using Computer
+Study on E-learning: Theory and Practice
+Study on E-learning: Theory and Practice
+Study on Digital Teaching Materials Production
+Study on Digital Teaching Materials Production
+Study on Curriculum of
+New Media Aesthetics
+Study on Curriculum of
+New Media Aesthetics
+Study on Experimental education
+and Alternate Schools
+Study on Experimental education
+and Alternate Schools
+Study on Multicultural Education
+Study on Multicultural Education
+Study on literacy-based Curriculum and Instruction
+Study on literacy-based Curriculum and Instruction
+Study on Teaching Strategy Innovation and Design
+Study on Teaching Strategy Innovation and Design
+Study on Curriculum Evaluation and Leadership
+Study on Curriculum Evaluation and Leadership
+Study on Sociology of
+Teaching
+Study on Sociology of
+Teaching
+Study on Curriculum Design and Development
+Study on Curriculum Design and Development
+Qualitative Research Methods for Curriculum and Instruction (Ⅱ)
+Qualitative Research Methods for Curriculum and Instruction (Ⅱ)
+Data Analysis
+Data Analysis
+Study on Experimental Design and Study in Curriculum and Instruction
+Study on Experimental Design and Study in Curriculum and Instruction
+Master’s Thesis
+Master’s Thesis
+Independent Study
+Independent Study
+degree dissertation
+degree dissertation
+Advanced Statistical Methods
+Advanced Statistical Methods
+Qualitative Research Methods for Curriculum and Instruction (Ⅰ)
+Qualitative Research Methods for Curriculum and Instruction (Ⅰ)
+Education Methodology: Curriculum and Instruction Focus
+Education Methodology: Curriculum and Instruction Focus
+Study on Curriculum and Instruction Issues in Urban Areas
+Study on Curriculum and Instruction Issues in Urban Areas
+Contemporary  Issues on Curriculum and Instruction
+Contemporary  Issues on Curriculum and Instruction
+Basic theory module
+Basic theory module
+Curriculum and Teaching
+Curriculum and Teaching
+Learning media and
+digital technology
+Learning media and
+digital technology
+research methodology
+research methodology
+To train students to become excellent curriculum and teaching leaders in metropolitan education
+To train students to become excellent curriculum and teaching leaders in metropolitan education
+6.日碩班修課須知
+畢業學分數至少34學分，其中包括必修課程16學分(含核心課程10學分、學位論文6學分)，選修課程18學分(含共同選修課程至少6學分、專精選修課程至少6學分)。
+第一學年每學期修課不得少於6學分、第二學年每學期修課皆不得少於2學分(不含碩士論文及獨立研究)。
+一般生每學期修習碩士班專門課程以修習13學分為上限，在職生以修習9學分為上限；為修習大學教育學程課程者不受此限，且所修學分數不列入碩士班畢業學分計算。
+本系碩士班每學期修習碩士班及教育學程課程總數，一般生合計不得超過19學分，在職生不得超過14學分，且不得超過本校「學生修習教育學程辦法」所訂之每學期修習教育學程課程學分數為上限。
+本碩士班研究生前一學期研究所學業成績，以及新生入學成績在全班前五分之一者，得申請超修學分，每學期以一學科2-3學分為限。申請者應於註冊選課時提出申請表，經導師會同系主任審核通過始得超修。
+學生選修以課程計畫內之課程為主，如申請加開新課者，需有15人以上提出申請，經系務會議同意通過始得加開。加開課程以本系碩士班之基本開課架構為方向，並以不影響現任教師課程為原則。
+碩士論文4學分及獨立研究2學分於第二學年開放修課，若更換指導教授，則須重新修習獨立研究，先前所修之碩士論文及獨立研究不得列為畢業學分。且於正式註冊選課前，檢附指導教授同意之修課課程計畫表，始得選修。
+學生選課時得於本校校內進行跨系所選修，或與本校簽約之特定學校進行跨校選修，惟跨系所、跨校選修之總學分數以不超過6學分為原則，並須經指導教授或導師及系主任同意於註冊選課時提出申請。跨系所、校選修課程需為本系碩士班沒有開設之碩士班層級課程。
+寒暑假修讀本校或外校推廣學分之課程，皆不計入畢業學分數。
+研究生休退學申請，依據教務處註冊組相關規定辦理。
+碩士班研究生修業年限最長4年，修業期間得休學2年。依本校學則規定，申請為在職身分，並得延長修業年限2年。
+除修課與論文計畫發表之外，正式學位論文考試通過，始得畢業。學位論文考試申請時，需提出申請表格規定之各項文件。論文計畫發表及學位考試需於不同學期申辦。
+應於申請學位考試前，上網自學『學術研究倫理教育課程』，並通過線上課程測驗達及格標準，以取得修課證明。
+(14) 「日間碩士班推薦甄選」招生管道錄取之新生，若申請提早入學當學期修課上限為2門課或3學分。
+四、必修科目
+年級/
+Year
+類別/ Category
+科目中文名稱/
+Course Name in Chinese
+科目英文名稱/
+Course Name in English
+開課學期/ Semester
+備註/Note
+學分/ Credit
+時數/ Hours
+上/ First
+下/ Second
+上/ First
+下/ Second
+一年級
+核心課程（共同必修）
+當代課程與教學議題研討
+Contemporary  Issues on Curriculum and Instruction
+1
+1
+1
+1
+都會區課程與教學議題研究
+Study on Curriculum and Instruction Issues in Urban Areas
+2
+2
+教育研究法：課程與教學取向
+Education Methodology: Curriculum and Instruction Focus
+2
+2
+教育統計學
+Advanced Statistical Methods
+2
+2
+課程與教學質性研究(Ⅰ)
+Qualitative Research Methods for Curriculum and Instruction (Ⅰ)
+2
+2
+二年級
+學位論文
+碩士論文
+Master’s Thesis
+2
+2
+獨立研究
+Independent Study
+1
+1
+1
+1
+五、選修科目
+共同選修
+年級/
+Year
+類別/ Category
+科目中文名稱/
+Course Name in Chinese
+開課學期/ Semester
+備註/Note
+學分/ Credit
+時數/ Hours
+上/ First
+下/ Second
+上/ First
+下/ Second
+研究方法論
+課程與教學實驗設計與研究
+Study on Experimental Design and Study in Curriculum and Instruction
+2
+2
+電腦資料分析
+Data Analysis
+2
+2
+課程與教學質性研究（Ⅱ）
+Qualitative Research Methods for Curriculum and Instruction (Ⅱ)
+2
+2
+基礎理論｜課程領域
+課程設計與發展研究：理論與實作
+Study on Curriculum Design and Development
+2
+2
+課程社會學研究
+Study on Sociology of Curriculum and Instruction
+2
+2
+課程評鑑與領導研究
+Study on Curriculum Evaluation and Leadership
+2
+2
+基礎理論｜教學領域
+教學社會學研究
+Study on Sociology of
+Teaching
+2
+2
+教學理論與學習設計研究
+Study on Theories of Teaching and Instructional Design
+2
+2
+1
+認知科學與教學研究
+Study on Cognitive Science and Instruction
+2
+2
+註1.共同選修 基礎理論_課程領域 (至少) 修習2學分
+註2.共同選修 基礎理論_教學領域 (至少) 修習2學分
+註3.共同選修 至少修習6學分
+專精選修
+年級/
+Year
+類別/ Category
+科目中文名稱/
+Course Name in Chinese
+開課學期/ Semester
+備註/Note
+學分/ Credit
+時數/ Hours
+上/ First
+下/ Second
+上/ First
+下/ Second
+課程與教學
+教學策略創新與設計研究
+Study on Teaching Strategy Innovation and Design
+2
+2
+情意與道德課程研究
+Study on Curriculum for Affection and Morality
+2
+2
+素養導向領域課程與教學研究
+Study on literacy-based Curriculum and Instruction
+2
+2
+學習環境規劃
+Design of Learning Environments
+2
+2
+多元文化教育研究
+Study on Multicultural Education
+2
+2
+藝術教育課程研究
+Study on Curriculum for Art Education
+2
+2
+數學領域課程與教學研究
+Study on Mathematics domain curriculum and Instruction
+2
+2
+實驗教育與另類學校研究
+Study on Experimental education
+and Alternate Schools
+2
+2
+美感教育課程與教學研究
+Study on Curriculum & Instruction for Aesthetic Education
+2
+2
+114新增
+學習媒材與數位科技
+新媒體美學課程研究
+Study on Curriculum of  New Media Aesthetics
+2
+2
+數位學習研究
+Study on E-learning: Theory and Practice
+2
+2
+數位教學媒材製作研究
+Study on Digital Teaching Materials Production
+2
+2
+教科書研究
+Study on Textbook
+2
+2
+繪本分析與教學應用
+Picture Book Analysis and Teaching Application
+2
+2
+資訊科技融入教學研究
+Research on Instruction Using Computer
+2
+2
+人工智慧的應用與教育
+Artificial Intelligence applications and education
+2
+2
+國語文教學與人工智慧運用
+Mandarin Instruction and Artificial Intelligence Application
+2
+2
+人工智慧與美感跨域課程研究
+Cross-domain Curriculum Reaserch on Artificial Intelligence(AI) and Aesthetics (new)
+2
+2
+114新增
