@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { auth } from "@/lib/auth";
 import { loadCatalogCourses, matchCatalogCourse } from "@/lib/courseMatch";
+import { prisma } from "@/lib/prisma";
 import { getOrCreateProfile } from "@/lib/session";
 import {
   parseTranscriptText,
