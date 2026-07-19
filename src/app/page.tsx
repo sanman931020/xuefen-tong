@@ -6,7 +6,7 @@ import { ThemePicker } from "@/components/ThemePicker";
 
 export default async function HomePage() {
   const session = await auth();
-  if (session?.user) redirect("/app/schedule");
+  if (session?.user?.id) redirect("/app/schedule");
 
   return (
     <>

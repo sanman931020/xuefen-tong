@@ -6,6 +6,7 @@ import type { Provider } from "next-auth/providers";
 import bcrypt from "bcryptjs";
 import { z } from "zod";
 import { prisma } from "@/lib/prisma";
+import { authConfig } from "@/lib/auth.config";
 
 const credentialsSchema = z.object({
   username: z.string().min(4).max(40),
@@ -57,15 +58,12 @@ if (googleAuthEnabled) {
 }
 
 export const { handlers, auth, signIn, signOut } = NextAuth({
+  ...authConfig,
   adapter: PrismaAdapter(prisma),
-  session: { strategy: "jwt" },
-  pages: {
-    signIn: "/login",
-  },
   providers,
   callbacks: {
+    ...authConfig.callbacks,
     async signIn({ user, account }) {
-      // Google：同一 Google 帳號永遠對到同一個 User（跨瀏覽器共用資料）
       if (account?.provider === "google" && account.providerAccountId) {
         const existingAccount = await prisma.account.findUnique({
           where: {
@@ -81,13 +79,9 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
       }
       return true;
     },
-
     async jwt({ token, user, account }) {
-      if (user?.id) {
-        token.id = user.id;
-      }
+      if (user?.id) token.id = user.id;
 
-      // OAuth 登入當下再以 Google Account 鎖定 userId，避免不同瀏覽器建出不同帳號
       if (account?.provider === "google" && account.providerAccountId) {
         const linked = await prisma.account.findUnique({
           where: {
@@ -97,22 +91,11 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
             },
           },
         });
-        if (linked) {
-          token.id = linked.userId;
-        }
+        if (linked) token.id = linked.userId;
       }
 
-      if (!token.id && token.sub) {
-        token.id = token.sub;
-      }
+      if (!token.id && token.sub) token.id = token.sub;
       return token;
-    },
-    async session({ session, token }) {
-      const id = (token.id ?? token.sub) as string | undefined;
-      if (session.user && id) {
-        session.user.id = id;
-      }
-      return session;
     },
   },
   events: {
@@ -125,5 +108,4 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
       });
     },
   },
-  trustHost: true,
 });

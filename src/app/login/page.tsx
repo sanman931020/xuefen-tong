@@ -6,7 +6,7 @@ import { redirect } from "next/navigation";
 
 export default async function LoginPage() {
   const session = await auth();
-  if (session?.user) redirect("/app/schedule");
+  if (session?.user?.id) redirect("/app/schedule");
 
   return (
     <main className="mx-auto flex min-h-screen max-w-md flex-col justify-center px-4 py-10">
